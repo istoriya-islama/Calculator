@@ -1,0 +1,4 @@
+C:\Users\istor\source\repos\calculator282\calculator282\x64\Release\calculator282.vcxproj.AssemblyReference.cache
+C:\Users\istor\source\repos\calculator282\calculator282\x64\Release\calculator282.MyForm.resources
+C:\Users\istor\source\repos\calculator282\calculator282\x64\Release\calculator282.MyForm1.resources
+C:\Users\istor\source\repos\calculator282\calculator282\x64\Release\calculator282.vcxproj.GenerateResource.cache

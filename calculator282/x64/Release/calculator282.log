@@ -1,0 +1,26 @@
+﻿  MyForm.cpp
+C:\Users\istor\source\repos\calculator282\calculator282\MyForm1.h(598,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\istor\source\repos\calculator282\calculator282\MyForm1.h(609,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\istor\source\repos\calculator282\calculator282\MyForm1.h(648,43): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\istor\source\repos\calculator282\calculator282\MyForm1.h(678,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\istor\source\repos\calculator282\calculator282\MyForm1.h(698,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\istor\source\repos\calculator282\calculator282\MyForm.h(530,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\istor\source\repos\calculator282\calculator282\MyForm.h(569,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\istor\source\repos\calculator282\calculator282\MyForm.h(599,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+LINK : fatal error LNK1104: не удается открыть файл "C:\Users\istor\source\repos\calculator282\x64\Release\calculator282.exe"
